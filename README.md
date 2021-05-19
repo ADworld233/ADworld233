@@ -1,7 +1,4 @@
 ### Hi there 👋
-- 💬我能说中国话和英语
-- 📫您可以通过以QQ来联系我：264561803
-- 🦄本人非常欢迎各位访问[我的个人博客]（https://blog.adworld.top/）
 <!--
 **ADworld233/ADworld233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
