@@ -1,15 +1,9 @@
 ### Hi there 👋
-- 🌱我是一个初中生；
+- 🌱我是一个初中生；<img  src="https://github-readme-stats.vercel.app/api?username=ADworld233" align='Right'/>
 - 💬我只会说英文和中文；
 - 🔭我正在学习一门计算机语言；
 - 👯我有许多好朋友；
 - 📫我需要大佬们的帮助；
-- 🔭我目前在初中就读。<img  src="https://github-readme-stats.vercel.app/api?username=boxcheese" align='Right'/>
-- 😄我目前正在学习的HTML，Python等。
-- 🍗我学习计划硬，**希望早日成才**。
-- 💬我能说中国话和英语还有日语。
-- 🦄本人非常欢迎各位访问[我的个人博客](https://killwho.com/)
-- 🍋本人写的[typecho帮助文档](https://boxcheese.github.io/#/)希望对你们有帮助
 <!--
 **ADworld233/ADworld233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
