@@ -5,4 +5,5 @@
 - 👯我有许多好朋友；
 - 📫我需要大佬们的帮助；
 - 🦄欢迎各位访问[我的个人博客](https://blog.adworld.top/) ;
-[![Hi there!, ADworld-灵梦](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=ADworld-%E7%81%B5%E6%A2%A6&title=Hi%20there%21)](https://pimp-my-readme.webapp.io)
+[![Hi there!, ADworld-灵梦](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=ADworld-%E7%81%B5%E6%A2%A6&title=Hi%20there%21)](https://adworld.top)
+[![Java_HTML_JavaScript_CSS_Python_MySQL_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Java_HTML_JavaScript_CSS_Python_MySQL_)](https://adworld.top)
