@@ -1,4 +1,3 @@
-[![Hi there!, ADworld-灵梦](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=ADworld-%E7%81%B5%E6%A2%A6&title=Hi%20there%21)](https://adworld.top)
 ### Hi there 👋<img  src="https://github-readme-stats.vercel.app/api?username=ADworld233" align='Right'/>
 - 🌱我是一个高中生；
 - 💬我只会说英文和中文；
